@@ -1,14 +1,12 @@
 [![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)](https://personal-portfolio-lemon-one-84.vercel.app/)
-<h1 align="center">Hi 👋, I'm Atharv</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h1 align="center">Hi, I'm Atharv</h1>
+<h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="Coding" width = "400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharv96k&label=Profile%20views&color=0e75b6&style=flat" alt="atharv96k" /> </p>
 
-- 🌱 I’m currently learning **FullStack Web-Development**
+- 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [](https://personal-portfolio-lemon-one-84.vercel.app/)
-
-- 💬 Ask me about **Reactjs, JavaScript**
+- 💬 Ask me about **Reactjs, Java, OOP, Collections, Multithreading**
 
 - 📫 How to reach me **atharvmohite30@gmail.com**
 
