@@ -7,7 +7,7 @@
       <p><strong>MCA Candidate | Backend Specialist | Open Source Contributor</strong></p>
       <p>I am a results-driven <b>Software Developer</b> specializing in the Java ecosystem and modern frontend frameworks. I focus on building high-performance, scalable applications and maintaining robust backend architectures.</p>
       <p>
-        🌱 <b>Current Focus:</b> Mastering Microservices with SpringBoot & Security<br>
+        🌱 <b>Current Focus:</b> Mastering Microservices with Spring Cloud & Security<br>
         🎯 <b>Goal:</b> Building AI-integrated full-stack solutions<br>
         💻 <b>Active:</b> Solving complex DSA challenges on LeetCode daily
       </p>
@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -40,17 +39,14 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[TruthLens](https://github.com/atharv96k/fake-news-detection)** | AI-powered fact-verification platform with semantic caching. | React, Node.js, MySQL, AI SDK |
-| **[QuickInvoice](https://github.com/atharv96k/invoice-generator-client)** | Full-stack professional invoice generator with live templates. | Spring Boot, React, MongoDB |
+| **[TruthLens](https://github.com/atharv96k/fake-news-detection)** | AI-powered fact-verification platform with semantic caching. | React, Node.js, MySQL, Perplexity AI|
+| **[QuickInvoice](https://github.com/atharv96k/invoice-generator-client)** | Full-stack professional invoice generator with live templates. | Spring Boot, React, MongoDB|
+| **[Smart AI Assistant](https://github.com/atharv96k)** | Gemini AI-integrated email management and automation tool. | Java, Spring Boot, Gemini API |
 
 ---
 
 ### 📈 Activity & Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharv96k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Atharv's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv96k&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv96k&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
