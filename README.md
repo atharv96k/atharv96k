@@ -56,14 +56,6 @@
 ### 📈 Activity & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharv96k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Atharv's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv96k&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv96k&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
