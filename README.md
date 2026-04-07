@@ -40,16 +40,37 @@
 ### 🚀 Top Repositories
 
 > [!TIP]
-> **[TruthLens](https://github.com/atharv96k/fake-news-detection)** > AI-powered fact-verification platform with semantic caching.  
+> **[TruthLens](https://github.com/atharv96k/fake-news-detection)**
+> AI-powered fact-verification platform with semantic caching.  
 > *Tech: React, Node.js, MySQL, Perplexity AI*
 
 > [!TIP]
-> **[QuickInvoice](https://github.com/atharv96k/invoice-generator-client)** > Full-stack professional invoice generator with live templates.  
+> **[QuickInvoice](https://github.com/atharv96k/invoice-generator-client)**
+> Full-stack professional invoice generator with live templates.  
 > *Tech: Spring Boot, React, MongoDB*
 
 > [!TIP]
-> **[Smart AI Assistant](https://github.com/atharv96k)** > Gemini AI-integrated email management and automation tool.  
+> **[Smart AI Assistant](https://github.com/atharv96k)**
+> Gemini AI-integrated email management and automation tool.  
 > *Tech: Java, Spring Boot, Google AI*
+
+---
+
+### 🌍 Open Source Contributions
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs-6%20Contributions-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-blue?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+> 💡 Actively contributing to open-source projects across education, tooling, and developer ecosystems.
+
+| 🔀 Pull Request | 📦 Repository | 📅 Status |
+|---|---|---|
+| [content: add new trivia question](https://github.com/lingdojo/kana-dojo/pull/12188) | `lingdojo/kana-dojo` | ✅ Merged |
+| [content: add new japanese proverb](https://github.com/lingdojo/kana-dojo/pull/12148) | `lingdojo/kana-dojo` | ✅ Merged |
+| [feat: implement responsive TemplateGrid for invoice selection](https://github.com/atharv96k/invoice-generator-client/pull/2) | `atharv96k/invoice-generator-client` | ✅ Merged |
+ 
 
 ---
 
