@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Atharv Mohite 👋</h1>
 
 <p align="center">
-  <strong>MCA Candidate | Backend Specialist | Open Source Contributor</strong>
+  <strong>MCA Candidate | Java & Spring Boot Developer | Open Source Contributor</strong>
 </p>
 
 <p align="center">
