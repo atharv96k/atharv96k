@@ -15,7 +15,7 @@
 <p align="center">
   🌱 <b>Current Focus:</b> Mastering Microservices with Spring Cloud & Security<br>
   🎯 <b>Goal:</b> Building AI-integrated full-stack solutions<br>
-  💻 <b>Active:</b> Solving complex DSA challenges on LeetCode daily
+  💻 <b>Active:</b> Practicing DSA fundamentals on LeetCode
 </p>
 
 ---
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -38,18 +38,24 @@
 ### 🚀 Top Repositories
 
 > [!TIP]
+> **[UPI Mesh — Offline Payment System](https://github.com/atharv96k/distributed-upi-poc)**
+> Proof-of-concept for offline UPI payments over Bluetooth mesh networks.
+> Features hybrid RSA-OAEP + AES-256-GCM encryption, replay attack prevention, idempotent transaction processing, and optimistic locking.
+> *Tech: Spring Boot, AES-256-GCM, RSA, REST API*
+
+> [!TIP]
 > **[TruthLens](https://github.com/atharv96k/fake-news-detection)**
-> AI-powered fact-verification platform with semantic caching.  
+> AI-powered fact-verification platform with semantic caching.
 > *Tech: React, Node.js, MySQL, Perplexity AI*
 
 > [!TIP]
 > **[QuickInvoice](https://github.com/atharv96k/invoice-generator-client)**
-> Full-stack professional invoice generator with live templates.  
+> Full-stack professional invoice generator with live templates.
 > *Tech: Spring Boot, React, MongoDB*
 
 > [!TIP]
-> **[Smart AI Assistant](https://github.com/atharv96k)**
-> Gemini AI-integrated email management and automation tool.  
+> **[Smart AI Email Assistant](https://github.com/atharv96k)**
+> Gemini AI-integrated email management and automation tool.
 > *Tech: Java, Spring Boot, Google AI*
 
 ---
@@ -57,7 +63,7 @@
 ### 🌍 Open Source Contributions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs-3%20Contributions-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRs-2%20Contributions-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-blue?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -67,8 +73,6 @@
 |---|---|---|
 | [content: add new trivia question](https://github.com/lingdojo/kana-dojo/pull/12188) | `lingdojo/kana-dojo` | ✅ Merged |
 | [content: add new japanese proverb](https://github.com/lingdojo/kana-dojo/pull/12148) | `lingdojo/kana-dojo` | ✅ Merged |
-| [feat: implement responsive TemplateGrid for invoice selection](https://github.com/atharv96k/invoice-generator-client/pull/2) | `atharv96k/invoice-generator-client` | ✅ Merged |
- 
 
 ---
 
