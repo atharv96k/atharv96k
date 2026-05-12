@@ -71,6 +71,7 @@
 
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
+| [fix: add missing User Stories header in lab-travel-weather-planner](https://github.com/freeCodeCamp/freeCodeCamp/pull/67325) | `freeCodeCamp/freeCodeCamp` | ✅ Merged |
 | [content: add new trivia question](https://github.com/lingdojo/kana-dojo/pull/12188) | `lingdojo/kana-dojo` | ✅ Merged |
 | [content: add new japanese proverb](https://github.com/lingdojo/kana-dojo/pull/12148) | `lingdojo/kana-dojo` | ✅ Merged |
 
