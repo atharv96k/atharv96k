@@ -44,9 +44,9 @@
 > *Tech: Spring Boot, AES-256-GCM, RSA, REST API*
 
 > [!TIP]
-> **[TruthLens](https://github.com/atharv96k/fake-news-detection)**
-> AI-powered fact-verification platform with semantic caching.
-> *Tech: React, Node.js, MySQL, Perplexity AI*
+> **[Money Manager](https://github.com/atharv96k)**
+> Full-stack income & expense tracker with JWT auth, category management, React Charts, and daily email reminders.
+> *Tech: Spring Boot, React, MySQL, JWT, Tailwind CSS*
 
 > [!TIP]
 > **[QuickInvoice](https://github.com/atharv96k/invoice-generator-client)**
