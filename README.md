@@ -44,7 +44,7 @@
 > *Tech: Spring Boot, AES-256-GCM, RSA, REST API*
 
 > [!TIP]
-> **[Money Manager](https://github.com/atharv96k)**
+> **[Money Manager](https://github.com/atharv96k/MMA)**
 > Full-stack income & expense tracker with JWT auth, category management, React Charts, and daily email reminders.
 > *Tech: Spring Boot, React, MySQL, JWT, Tailwind CSS*
 
