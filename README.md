@@ -67,9 +67,9 @@
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
-| [test(calculate): verify longest streak is found in middle of calendar](https://github.com/JhaSourav07/commitpulse/pull/821) | `JhaSourav07/commitpulse` | 🟡 Open |
+| [test(calculate): verify longest streak is found in middle of calendar](https://github.com/JhaSourav07/commitpulse/pull/821) | `JhaSourav07/commitpulse` | ✅ Merged |
 | [feat(i18n): add Japanese (ja) locale support for badge labels](https://github.com/JhaSourav07/commitpulse/pull/569) | `JhaSourav07/commitpulse` | ✅ Merged |
-| [feat(i18n): add German (de) locale support for badge labels](https://github.com/JhaSourav07/commitpulse/pull/562) | `JhaSourav07/commitpulse` | 🟡 Open |
+| [feat(i18n): add German (de) locale support for badge labels](https://github.com/JhaSourav07/commitpulse/pull/562) | `JhaSourav07/commitpulse` | ✅ Merged |
 | [refactor(github): move achievement milestones to config file](https://github.com/JhaSourav07/commitpulse/pull/556) | `JhaSourav07/commitpulse` | 🟡 Open |
 | [fix(ui): resolve terms checkbox line-wrapping and layout column misal…](https://github.com/hitesh-kumar123/Travel-Plans-/pull/319) | `hitesh-kumar123/Travel-Plans-` | 🟡 Open |
 | [🐛 fix: reset scroll position to top on route change and fix lint issues](https://github.com/GitMetricsLab/github_tracker/pull/501) | `GitMetricsLab/github_tracker` | 🟡 Open |
