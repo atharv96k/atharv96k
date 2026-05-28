@@ -72,9 +72,6 @@
 | [feat(i18n): add German (de) locale support for badge labels](https://github.com/JhaSourav07/commitpulse/pull/562) | `JhaSourav07/commitpulse` | 🟡 Open |
 | [refactor(github): move achievement milestones to config file](https://github.com/JhaSourav07/commitpulse/pull/556) | `JhaSourav07/commitpulse` | 🟡 Open |
 | [fix(ui): resolve terms checkbox line-wrapping and layout column misal…](https://github.com/hitesh-kumar123/Travel-Plans-/pull/319) | `hitesh-kumar123/Travel-Plans-` | 🟡 Open |
-| [feat(portfolio): implement responsive Ceramic Minimal template layout (Fixes #1987)](https://github.com/anurag3407/career-pilot/pull/2032) | `anurag3407/career-pilot` | ❌ Closed |
-| [feat(portfolio): implement responsive VS Code Theme template #2002](https://github.com/anurag3407/career-pilot/pull/2022) | `anurag3407/career-pilot` | ❌ Closed |
-| [Fix/signup card padding](https://github.com/GitMetricsLab/github_tracker/pull/510) | `GitMetricsLab/github_tracker` | ❌ Closed |
 | [🐛 fix: reset scroll position to top on route change and fix lint issues](https://github.com/GitMetricsLab/github_tracker/pull/501) | `GitMetricsLab/github_tracker` | 🟡 Open |
 | [docs: clarify where to add custom CSS files](https://github.com/facebook/docusaurus/pull/12032) | `facebook/docusaurus` | ✅ Merged |
 | [fix: add missing User Stories header in lab-travel-weather-planner](https://github.com/freeCodeCamp/freeCodeCamp/pull/67325) | `freeCodeCamp/freeCodeCamp` | ✅ Merged |
@@ -82,8 +79,6 @@
 | [content: add new japanese proverb](https://github.com/lingdojo/kana-dojo/pull/12148) | `lingdojo/kana-dojo` | ✅ Merged |
 | [feat: implement responsive TemplateGrid for invoice selection](https://github.com/atharv96k/invoice-generator-client/pull/2) | `atharv96k/invoice-generator-client` | ✅ Merged |
 | [Add Atharv to the Contributers List](https://github.com/firstcontributions/first-contributions/pull/110861) | `firstcontributions/first-contributions` | ✅ Merged |
-| [docs: fix typo in README.md](https://github.com/accordproject/template-engine/pull/67) | `accordproject/template-engine` | ❌ Closed |
-| [Atharv 🍉](https://github.com/alisolanki/Welcome-to-Open-Source/pull/4063) | `alisolanki/Welcome-to-Open-Source` | ❌ Closed |
 <!-- PR_TABLE_END -->
 ---
 
