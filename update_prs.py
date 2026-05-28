@@ -24,14 +24,14 @@ for pr in data["items"]:
     state = pr["state"]
     merged = pr.get("pull_request", {}).get("merged_at")
 
-    if merged:
-        status = "✅ Merged"
-    elif state == "open":
-        status = "🟡 Open"
-    else:
-        status = "❌ Closed"
+if merged:
+    status = "✅ Merged"
+elif state == "open":
+    status = "🟡 Open"
+else:
+    continue  # skip closed PRs
 
-    rows.append(f"| [{title}]({html_url}) | `{repo}` | {status} |")
+rows.append(f"| [{title}]({html_url}) | `{repo}` | {status} |")
 
 table = "| 🔀 Pull Request | 📦 Repository | 📅 Status |\n"
 table += "|---|---|---|\n"
