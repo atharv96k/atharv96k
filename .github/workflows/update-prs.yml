@@ -1,0 +1,27 @@
+name: Update PR List in README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # runs daily at midnight
+  workflow_dispatch:       # allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch PRs and Update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: atharv96k
+        run: |
+          python3 update_prs.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: auto-update PR list"
+          git push
