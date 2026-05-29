@@ -67,8 +67,9 @@
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
-| [test(tracking): verify trackUser sends correct payload structure via sendBeacon](https://github.com/JhaSourav07/commitpulse/pull/1141) | `JhaSourav07/commitpulse` | 🟡 Open |
-| [test(github route): verify ?repo= parameter is accepted by the schema](https://github.com/JhaSourav07/commitpulse/pull/1136) | `JhaSourav07/commitpulse` | 🟡 Open |
+| [test(github route): verify ?org= parameter returns 200](https://github.com/JhaSourav07/commitpulse/pull/1149) | `JhaSourav07/commitpulse` | ✅ Merged |
+| [test(tracking): verify trackUser sends correct payload structure via sendBeacon](https://github.com/JhaSourav07/commitpulse/pull/1141) | `JhaSourav07/commitpulse` | ✅ Merged |
+| [test(github route): verify ?repo= parameter is accepted by the schema](https://github.com/JhaSourav07/commitpulse/pull/1136) | `JhaSourav07/commitpulse` | ✅ Merged |
 | [test(svg generator): verify .scan-line CSS class is on the radar rect in both renderers](https://github.com/JhaSourav07/commitpulse/pull/1134) | `JhaSourav07/commitpulse` | ✅ Merged |
 | [test(calculate): verify longest streak is found in middle of calendar](https://github.com/JhaSourav07/commitpulse/pull/821) | `JhaSourav07/commitpulse` | ✅ Merged |
 | [feat(i18n): add Japanese (ja) locale support for badge labels](https://github.com/JhaSourav07/commitpulse/pull/569) | `JhaSourav07/commitpulse` | ✅ Merged |
