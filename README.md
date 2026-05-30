@@ -67,13 +67,13 @@
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
-| [test(ComparisonStatsCard): verify progress bar split for equal values](https://github.com/JhaSourav07/commitpulse/pull/1166) | `JhaSourav07/commitpulse` | ✅ Merged |
-| [test(RadarChart): verify at least 3 axes are always shown via padding](https://github.com/JhaSourav07/commitpulse/pull/1159) | `JhaSourav07/commitpulse` | ✅ Merged |
-| [test(github route): verify ?org= parameter returns 200](https://github.com/JhaSourav07/commitpulse/pull/1149) | `JhaSourav07/commitpulse` | ✅ Merged |
-| [test(tracking): verify trackUser sends correct payload structure via sendBeacon](https://github.com/JhaSourav07/commitpulse/pull/1141) | `JhaSourav07/commitpulse` | ✅ Merged |
-| [test(github route): verify ?repo= parameter is accepted by the schema](https://github.com/JhaSourav07/commitpulse/pull/1136) | `JhaSourav07/commitpulse` | ✅ Merged |
+| [test(cache): verify TTLCache behavior for infinite TTL value (Variation 1)](https://github.com/JhaSourav07/commitpulse/pull/1603) | `JhaSourav07/commitpulse` | 🟡 Open |
+| [chore: add .gitattributes file to normalize cross-platform line endings](https://github.com/magic-peach/reframe/pull/1377) | `magic-peach/reframe` | 🟡 Open |
+| [fix: Add Content Security Policy with secure style-src for inline styles](https://github.com/magic-peach/reframe/pull/1375) | `magic-peach/reframe` | 🟡 Open |
+| [test(calculateMonthlyStats): verify January correctly uses December o…](https://github.com/JhaSourav07/commitpulse/pull/1249) | `JhaSourav07/commitpulse` | ✅ Merged |
+| [test(useShareActions): create hooks/useShareActions.test.ts](https://github.com/JhaSourav07/commitpulse/pull/1247) | `JhaSourav07/commitpulse` | ✅ Merged |
 
-> Showing **5 of 18** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
+> Showing **5 of 24** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
 <!-- PR_TABLE_END -->
 ---
 
