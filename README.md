@@ -86,6 +86,7 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/atharv96k/atharv96k/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
 ---
 
 ### 🤝 Connect with Me
