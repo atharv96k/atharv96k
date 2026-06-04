@@ -67,13 +67,13 @@
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
+| [test(AppTemplate-mouse-interactivity): verify Interactive Tooltips, Cursor Hovers & Touch Event Propagation (Variation 5)](https://github.com/JhaSourav07/commitpulse/pull/3596) | `JhaSourav07/commitpulse` | 🟡 Open |
 | [test(ComparePage-responsive-breakpoints): verify Responsive Multi-device Columns & Mobile Viewport Layouts (Variation 7)](https://github.com/JhaSourav07/commitpulse/pull/3155) | `JhaSourav07/commitpulse` | ✅ Merged |
 | [fix: replace CRA default meta description and manifest with PackGo br…](https://github.com/hitesh-kumar123/Travel-Plans-/pull/595) | `hitesh-kumar123/Travel-Plans-` | ✅ Merged |
 | [test(mongodb): verify User schema behaviors under connection state 2 (connecting) (Variation 3)](https://github.com/JhaSourav07/commitpulse/pull/2065) | `JhaSourav07/commitpulse` | ✅ Merged |
 | [test(api validation): check query validation boundaries for ?user= parameter (Variation 3)](https://github.com/JhaSourav07/commitpulse/pull/2058) | `JhaSourav07/commitpulse` | ✅ Merged |
-| [feat(svg): add disable_particles URL parameter option](https://github.com/JhaSourav07/commitpulse/pull/1700) | `JhaSourav07/commitpulse` | ✅ Merged |
 
-> Showing **5 of 30** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
+> Showing **5 of 31** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
 <!-- PR_TABLE_END -->
 ---
 
