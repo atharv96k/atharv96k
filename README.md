@@ -67,13 +67,13 @@
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
-| [fix: handle invalid timezone parameters gracefully (500 -> 400)](https://github.com/JhaSourav07/commitpulse/pull/3863) | `JhaSourav07/commitpulse` | 🟡 Open |
-| [fix: prevent unbounded user array DoS vulnerability in streak route](https://github.com/JhaSourav07/commitpulse/pull/3859) | `JhaSourav07/commitpulse` | 🟡 Open |
-| [feat: debounce all customize page parameters, not just username](https://github.com/JhaSourav07/commitpulse/pull/3782) | `JhaSourav07/commitpulse` | 🟡 Open |
-| [test(Achievements-massive-scaling): verify Massive Data Sets and Extreme High Bounds Scaling (Variation 2)](https://github.com/JhaSourav07/commitpulse/pull/3755) | `JhaSourav07/commitpulse` | 🟡 Open |
-| [fix: add catch-all 404 route inside Dashboard for unknown paths (#389)](https://github.com/hitesh-kumar123/Travel-Plans-/pull/784) | `hitesh-kumar123/Travel-Plans-` | 🟡 Open |
+| [fix: prevent unbounded user array DoS vulnerability in streak route](https://github.com/JhaSourav07/commitpulse/pull/3859) | `JhaSourav07/commitpulse` | ✅ Merged |
+| [feat: debounce all customize page parameters, not just username](https://github.com/JhaSourav07/commitpulse/pull/3782) | `JhaSourav07/commitpulse` | ✅ Merged |
+| [test(Achievements-massive-scaling): verify Massive Data Sets and Extreme High Bounds Scaling (Variation 2)](https://github.com/JhaSourav07/commitpulse/pull/3755) | `JhaSourav07/commitpulse` | ✅ Merged |
+| [fix: add catch-all 404 route inside Dashboard for unknown paths (#389)](https://github.com/hitesh-kumar123/Travel-Plans-/pull/784) | `hitesh-kumar123/Travel-Plans-` | ✅ Merged |
+| [test(AppTemplate-mouse-interactivity): verify Interactive Tooltips, Cursor Hovers & Touch Event Propagation (Variation 5)](https://github.com/JhaSourav07/commitpulse/pull/3596) | `JhaSourav07/commitpulse` | ✅ Merged |
 
-> Showing **5 of 36** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
+> Showing **5 of 35** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
 <!-- PR_TABLE_END -->
 ---
 
