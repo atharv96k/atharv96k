@@ -73,7 +73,7 @@
 | [fix: add catch-all 404 route inside Dashboard for unknown paths (#389)](https://github.com/hitesh-kumar123/Travel-Plans-/pull/784) | `hitesh-kumar123/Travel-Plans-` | ✅ Merged |
 | [test(AppTemplate-mouse-interactivity): verify Interactive Tooltips, Cursor Hovers & Touch Event Propagation (Variation 5)](https://github.com/JhaSourav07/commitpulse/pull/3596) | `JhaSourav07/commitpulse` | ✅ Merged |
 
-> Showing **5 of 35** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
+> Showing **5 of 33** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
 <!-- PR_TABLE_END -->
 ---
 
