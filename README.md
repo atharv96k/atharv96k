@@ -67,13 +67,13 @@
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
+| [test(benchmark-svg): verify accessibility standards and screen reader aria compliance (#4647)](https://github.com/JhaSourav07/commitpulse/pull/4806) | `JhaSourav07/commitpulse` | 🟡 Open |
 | [fix: prevent unbounded user array DoS vulnerability in streak route](https://github.com/JhaSourav07/commitpulse/pull/3859) | `JhaSourav07/commitpulse` | ✅ Merged |
 | [feat: debounce all customize page parameters, not just username](https://github.com/JhaSourav07/commitpulse/pull/3782) | `JhaSourav07/commitpulse` | ✅ Merged |
 | [test(Achievements-massive-scaling): verify Massive Data Sets and Extreme High Bounds Scaling (Variation 2)](https://github.com/JhaSourav07/commitpulse/pull/3755) | `JhaSourav07/commitpulse` | ✅ Merged |
 | [fix: add catch-all 404 route inside Dashboard for unknown paths (#389)](https://github.com/hitesh-kumar123/Travel-Plans-/pull/784) | `hitesh-kumar123/Travel-Plans-` | ✅ Merged |
-| [test(AppTemplate-mouse-interactivity): verify Interactive Tooltips, Cursor Hovers & Touch Event Propagation (Variation 5)](https://github.com/JhaSourav07/commitpulse/pull/3596) | `JhaSourav07/commitpulse` | ✅ Merged |
 
-> Showing **5 of 33** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
+> Showing **5 of 34** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
 <!-- PR_TABLE_END -->
 ---
 
