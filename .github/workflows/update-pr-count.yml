@@ -1,0 +1,34 @@
+name: Update Merged PR Count
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  update-pr-count:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Get merged PR count
+        id: pr_count
+        run: |
+          COUNT=$(curl -s "https://api.github.com/search/issues?q=is:pr+author:atharv96k+is:merged&per_page=1" \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            | python3 -c "import sys,json; print(json.load(sys.stdin)['total_count'])")
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+
+      - name: Update README badge
+        run: |
+          COUNT=${{ steps.pr_count.outputs.count }}
+          sed -i "s/PRs-[0-9]*%20Merged/PRs-${COUNT}%20Merged/" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update merged PR count to ${COUNT}"
+          git push
