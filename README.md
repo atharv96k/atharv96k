@@ -62,7 +62,23 @@
 
 ### 🌍 Open Source Contributions
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs-4%20Merged-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-blue?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
 > 💡 Actively contributing to open-source projects across education, tooling, and developer ecosystems.
+
+#### 🚀 Standalone Contributions
+
+| 🔀 Pull Request | 📦 Repository | 📅 Status |
+|---|---|---|
+| [docs: clarify where to add custom CSS files](https://github.com/facebook/docusaurus/pull/12032) | `facebook/docusaurus` | ✅ Merged |
+| [fix: add missing User Stories header in lab-travel-weather-planner](https://github.com/freeCodeCamp/freeCodeCamp/pull/67325) | `freeCodeCamp/freeCodeCamp` | ✅ Merged |
+| [content: add new trivia question](https://github.com/lingdojo/kana-dojo/pull/12188) | `lingdojo/kana-dojo` | ✅ Merged |
+| [content: add new japanese proverb](https://github.com/lingdojo/kana-dojo/pull/12148) | `lingdojo/kana-dojo` | ✅ Merged |
+
+#### 🎯 GSSoC 2026 Contributions
 
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
@@ -75,7 +91,6 @@
 
 > Showing **5 of 36** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
 <!-- PR_TABLE_END -->
----
 
 ### 📈 Activity & Contributions
 
