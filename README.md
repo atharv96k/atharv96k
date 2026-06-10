@@ -83,13 +83,13 @@
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
+| [test(network): verify accessibility standards and screen reader aria compliance (#4652)](https://github.com/JhaSourav07/commitpulse/pull/5076) | `JhaSourav07/commitpulse` | 🟡 Open |
 | [test(svgRenderer): verify accessibility standards and screen reader aria compliance (#4649)](https://github.com/JhaSourav07/commitpulse/pull/4913) | `JhaSourav07/commitpulse` | ✅ Merged |
 | [test(pr-insights): verify accessibility standards and screen reader aria compliance (#4648)](https://github.com/JhaSourav07/commitpulse/pull/4909) | `JhaSourav07/commitpulse` | ✅ Merged |
 | [test(benchmark-svg): verify accessibility standards and screen reader aria compliance (#4647)](https://github.com/JhaSourav07/commitpulse/pull/4806) | `JhaSourav07/commitpulse` | ✅ Merged |
 | [fix: prevent unbounded user array DoS vulnerability in streak route](https://github.com/JhaSourav07/commitpulse/pull/3859) | `JhaSourav07/commitpulse` | ✅ Merged |
-| [feat: debounce all customize page parameters, not just username](https://github.com/JhaSourav07/commitpulse/pull/3782) | `JhaSourav07/commitpulse` | ✅ Merged |
 
-> Showing **5 of 36** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
+> Showing **5 of 37** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
 <!-- PR_TABLE_END -->
 
 ### 📈 Activity & Contributions
