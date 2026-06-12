@@ -83,9 +83,9 @@
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
-| [test(dependencyGraph): verify dark and light color scheme contrast visual cohesion (#4509)](https://github.com/JhaSourav07/commitpulse/pull/5319) | `JhaSourav07/commitpulse` | 🟡 Open |
-| [test(useShareActions): verify dark and light color scheme contrast visual cohesion (#4504)](https://github.com/JhaSourav07/commitpulse/pull/5318) | `JhaSourav07/commitpulse` | 🟡 Open |
-| [test(useGlowEffect): verify dark and light color scheme contrast visual cohesion (#4501)](https://github.com/JhaSourav07/commitpulse/pull/5283) | `JhaSourav07/commitpulse` | 🟡 Open |
+| [test(dependencyGraph): verify dark and light color scheme contrast visual cohesion (#4509)](https://github.com/JhaSourav07/commitpulse/pull/5319) | `JhaSourav07/commitpulse` | ✅ Merged |
+| [test(useShareActions): verify dark and light color scheme contrast visual cohesion (#4504)](https://github.com/JhaSourav07/commitpulse/pull/5318) | `JhaSourav07/commitpulse` | ✅ Merged |
+| [test(useGlowEffect): verify dark and light color scheme contrast visual cohesion (#4501)](https://github.com/JhaSourav07/commitpulse/pull/5283) | `JhaSourav07/commitpulse` | ✅ Merged |
 | [test(network): verify accessibility standards and screen reader aria compliance (#4652)](https://github.com/JhaSourav07/commitpulse/pull/5076) | `JhaSourav07/commitpulse` | ✅ Merged |
 | [test(svgRenderer): verify accessibility standards and screen reader aria compliance (#4649)](https://github.com/JhaSourav07/commitpulse/pull/4913) | `JhaSourav07/commitpulse` | ✅ Merged |
 
