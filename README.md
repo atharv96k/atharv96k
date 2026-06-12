@@ -63,7 +63,7 @@
 ### 🌍 Open Source Contributions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs-36%20Merged-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRs-37%20Merged-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-blue?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
