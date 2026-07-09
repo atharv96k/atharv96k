@@ -83,13 +83,13 @@
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
-| [test(track-user): verify API route performance scaling and high data bounds (#4325)](https://github.com/JhaSourav07/commitpulse/pull/5751) | `JhaSourav07/commitpulse` | ✅ Merged |
-| [test(layoutConstants): verify script edge cases and empty missing inputs fallback indicators (#4289)](https://github.com/JhaSourav07/commitpulse/pull/5750) | `JhaSourav07/commitpulse` | ✅ Merged |
-| [test(benchmark-svg): verify script edge cases and empty missing inputs fallback triggers (#4297)](https://github.com/JhaSourav07/commitpulse/pull/5590) | `JhaSourav07/commitpulse` | ✅ Merged |
-| [test(ResumeUpload): verify edge cases and empty missing inputs fallback indicators (#2713)](https://github.com/JhaSourav07/commitpulse/pull/5390) | `JhaSourav07/commitpulse` | ✅ Merged |
-| [test(user-details): verify api edge cases and empty missing inputs verification (#4209)](https://github.com/JhaSourav07/commitpulse/pull/5387) | `JhaSourav07/commitpulse` | ✅ Merged |
+| [test(SocialsSection): verify TypeScript compiler schema validation and constraint stability (#6952)](https://github.com/JhaSourav07/commitpulse/pull/7793) | `JhaSourav07/commitpulse` | 🟡 Open |
+| [test(TechnologyGraph): verify asynchronous service layer mocking and local cache stubs (#6963)](https://github.com/JhaSourav07/commitpulse/pull/7792) | `JhaSourav07/commitpulse` | ✅ Merged |
+| [test(socials): verify interactive tooltips and touch event propagation mechanics (#6966)](https://github.com/JhaSourav07/commitpulse/pull/7790) | `JhaSourav07/commitpulse` | ✅ Merged |
+| [test(socials): verify responsive multi-device columns and mobile breakpoints (#6968)](https://github.com/JhaSourav07/commitpulse/pull/7781) | `JhaSourav07/commitpulse` | ✅ Merged |
+| [test(socials): verify asynchronous service layer mocking and local cache stubs (#6970)](https://github.com/JhaSourav07/commitpulse/pull/7779) | `JhaSourav07/commitpulse` | ✅ Merged |
 
-> Showing **5 of 48** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
+> Showing **5 of 53** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
 <!-- PR_TABLE_END -->
 
 ### 📈 Activity & Contributions
