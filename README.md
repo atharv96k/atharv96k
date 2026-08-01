@@ -83,13 +83,13 @@
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
+| [♻️ refactor(page): extract type definitions and constants into separate modules](https://github.com/Ixotic27/The-Leetcode-City/pull/1239) | `Ixotic27/The-Leetcode-City` | 🟡 Open |
 | [test(NameSection): verify timezone normalization and calendar data boundary alignment (#6944)](https://github.com/JhaSourav07/commitpulse/pull/7879) | `JhaSourav07/commitpulse` | ✅ Merged |
 | [test(NameSection): verify TypeScript compiler schema validation and constraint stability (#6946)](https://github.com/JhaSourav07/commitpulse/pull/7878) | `JhaSourav07/commitpulse` | ✅ Merged |
 | [test(TechnologiesSection): verify responsive multi-device columns and mobile breakpoints (#6955)](https://github.com/JhaSourav07/commitpulse/pull/7873) | `JhaSourav07/commitpulse` | ✅ Merged |
 | [test(SocialsSection): verify TypeScript compiler schema validation and constraint stability (#6952)](https://github.com/JhaSourav07/commitpulse/pull/7870) | `JhaSourav07/commitpulse` | ✅ Merged |
-| [test(TechnologiesSection): verify interaction tooltips and touch event propagation stability (#6953)](https://github.com/JhaSourav07/commitpulse/pull/7868) | `JhaSourav07/commitpulse` | ✅ Merged |
 
-> Showing **5 of 57** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
+> Showing **5 of 58** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
 <!-- PR_TABLE_END -->
 
 ### 📈 Activity & Contributions
