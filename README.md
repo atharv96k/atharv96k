@@ -83,13 +83,13 @@
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
-| [🐛 fix(notifications): replace tier emojis with color indicators in achievement emails](https://github.com/Ixotic27/The-Leetcode-City/pull/1453) | `Ixotic27/The-Leetcode-City` | 🟡 Open |
-| [🐛 fix(stats): add explicit null guard to activeToday query](https://github.com/Ixotic27/The-Leetcode-City/pull/1452) | `Ixotic27/The-Leetcode-City` | 🟡 Open |
-| [🐛 fix(rate-limit): add time-based cleanup interval to in-memory rate limiter](https://github.com/Ixotic27/The-Leetcode-City/pull/1448) | `Ixotic27/The-Leetcode-City` | 🟡 Open |
+| [🐛 fix(notifications): replace tier emojis with color indicators in achievement emails](https://github.com/Ixotic27/The-Leetcode-City/pull/1453) | `Ixotic27/The-Leetcode-City` | ✅ Merged |
+| [🐛 fix(rate-limit): add time-based cleanup interval to in-memory rate limiter](https://github.com/Ixotic27/The-Leetcode-City/pull/1448) | `Ixotic27/The-Leetcode-City` | ✅ Merged |
 | [🐛 fix(ci): resolve race condition between auto-labeler and gssoc validator](https://github.com/Ixotic27/The-Leetcode-City/pull/1446) | `Ixotic27/The-Leetcode-City` | ✅ Merged |
 | [test(reviewform): Enhance Timezone Normalization and Calendar Data Boundary Tests (#7113)](https://github.com/JhaSourav07/commitpulse/pull/8607) | `JhaSourav07/commitpulse` | 🟡 Open |
+| [Add Unit Tests for Timezone Normalization and Calendar Data Boundary Alignment in DescriptionSection](https://github.com/JhaSourav07/commitpulse/pull/8605) | `JhaSourav07/commitpulse` | 🟡 Open |
 
-> Showing **5 of 64** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
+> Showing **5 of 63** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
 <!-- PR_TABLE_END -->
 
 ### 📈 Activity & Contributions
