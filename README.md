@@ -83,13 +83,13 @@
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
-| [🐛 fix(notifications): replace tier emojis with color indicators in achievement emails](https://github.com/Ixotic27/The-Leetcode-City/pull/1453) | `Ixotic27/The-Leetcode-City` | ✅ Merged |
-| [🐛 fix(rate-limit): add time-based cleanup interval to in-memory rate limiter](https://github.com/Ixotic27/The-Leetcode-City/pull/1448) | `Ixotic27/The-Leetcode-City` | ✅ Merged |
-| [🐛 fix(ci): resolve race condition between auto-labeler and gssoc validator](https://github.com/Ixotic27/The-Leetcode-City/pull/1446) | `Ixotic27/The-Leetcode-City` | ✅ Merged |
-| [test(reviewform): Enhance Timezone Normalization and Calendar Data Boundary Tests (#7113)](https://github.com/JhaSourav07/commitpulse/pull/8607) | `JhaSourav07/commitpulse` | ✅ Merged |
-| [Add Unit Tests for Timezone Normalization and Calendar Data Boundary Alignment in DescriptionSection](https://github.com/JhaSourav07/commitpulse/pull/8605) | `JhaSourav07/commitpulse` | ✅ Merged |
+| [✨ feat(examples): add Laser Ray Trace Toggle Variation #612 (#73880)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/74778) | `SAPTARSHI-coder/EaseMotion-css` | 🟡 Open |
+| [✨ feat(examples): add Pulsating Wave Toggle Variation #607 (#73874)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/74748) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [✨ feat(examples): add Liquid Wave Fill Toggle Variation #608 (#73875)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/74728) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [✨ feat(examples): add Holographic Flicker Toggle Variation #606 (#73873)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/74698) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [✨ feat(examples): add 3D Perspective Tilt Toggle Variation #605 (#73872)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/74486) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
 
-> Showing **5 of 63** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
+> Showing **5 of 77** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
 <!-- PR_TABLE_END -->
 
 ### 📈 Activity & Contributions
