@@ -83,13 +83,13 @@
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
-| [✨ feat(examples): add Morphing Shape Toggle Variation #609 (#73876)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/74796) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [✨ feat(examples): add Laser Ray Trace Toggle Variation #612 (#73880)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/74778) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [✨ feat(examples): add Pulsating Wave Toggle Variation #607 (#73874)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/74748) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [✨ feat(examples): add Liquid Wave Fill Toggle Variation #608 (#73875)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/74728) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [✨ feat(examples): add Holographic Flicker Toggle Variation #606 (#73873)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/74698) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [✨ feat(examples): add Subtle Elevate Toggle Variation #618 (#73886)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/75886) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [✨ feat(examples): add Gradient Shimmer Toggle Variation #617 (#73885)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/75883) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [✨ feat(examples): add Minimalist Outline Toggle Variation #616 (#73884)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/75876) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [✨ feat(examples): add Quantum Energy Shield Toggle Variation #615 (#73883)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/75870) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [✨ feat(examples): add Retro Arcade Pixel Toggle Variation #614 (#73882)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/75855) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
 
-> Showing **5 of 78** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
+> Showing **5 of 87** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
 <!-- PR_TABLE_END -->
 
 ### 📈 Activity & Contributions
