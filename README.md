@@ -83,13 +83,13 @@
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
-| [✨ feat(examples): add Laser Ray Trace Toggle Variation #612 (#73880)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/74778) | `SAPTARSHI-coder/EaseMotion-css` | 🟡 Open |
+| [✨ feat(examples): add Morphing Shape Toggle Variation #609 (#73876)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/74796) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [✨ feat(examples): add Laser Ray Trace Toggle Variation #612 (#73880)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/74778) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
 | [✨ feat(examples): add Pulsating Wave Toggle Variation #607 (#73874)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/74748) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
 | [✨ feat(examples): add Liquid Wave Fill Toggle Variation #608 (#73875)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/74728) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
 | [✨ feat(examples): add Holographic Flicker Toggle Variation #606 (#73873)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/74698) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [✨ feat(examples): add 3D Perspective Tilt Toggle Variation #605 (#73872)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/74486) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
 
-> Showing **5 of 77** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
+> Showing **5 of 78** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
 <!-- PR_TABLE_END -->
 
 ### 📈 Activity & Contributions
