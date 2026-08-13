@@ -83,13 +83,13 @@
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
+| [✨ feat(examples): add Ease Lighthouse Beam Signal Component (#74828)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/76135) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [✨ feat(examples): add Ease Airport Schedule Monitor Component (#74831)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/76105) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
 | [✨ feat(examples): add Subtle Elevate Toggle Variation #618 (#73886)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/75886) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
 | [✨ feat(examples): add Gradient Shimmer Toggle Variation #617 (#73885)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/75883) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
 | [✨ feat(examples): add Minimalist Outline Toggle Variation #616 (#73884)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/75876) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [✨ feat(examples): add Quantum Energy Shield Toggle Variation #615 (#73883)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/75870) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [✨ feat(examples): add Retro Arcade Pixel Toggle Variation #614 (#73882)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/75855) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
 
-> Showing **5 of 87** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
+> Showing **5 of 86** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
 <!-- PR_TABLE_END -->
 
 ### 📈 Activity & Contributions
