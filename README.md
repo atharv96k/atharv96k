@@ -83,13 +83,13 @@
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
+| [feat(scss): Add SCSS Sticky Top Offset helper mixins (#81336)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/85865) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [docs: document usage for Responsive Sidebar (#79930)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/85856) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
 | [✨ feat(examples): add Ease Lighthouse Beam Signal Component (#74828)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/76135) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
 | [✨ feat(examples): add Ease Airport Schedule Monitor Component (#74831)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/76105) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
 | [✨ feat(examples): add Subtle Elevate Toggle Variation #618 (#73886)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/75886) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [✨ feat(examples): add Gradient Shimmer Toggle Variation #617 (#73885)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/75883) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [✨ feat(examples): add Minimalist Outline Toggle Variation #616 (#73884)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/75876) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
 
-> Showing **5 of 86** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
+> Showing **5 of 87** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
 <!-- PR_TABLE_END -->
 
 ### 📈 Activity & Contributions
