@@ -83,13 +83,13 @@
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
-| [feat(scss): Add SCSS Sticky Top Offset helper mixins (#81336)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/85865) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [docs: document usage for Responsive Sidebar (#79930)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/85856) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [✨ feat(examples): add Ease Lighthouse Beam Signal Component (#74828)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/76135) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [✨ feat(examples): add Ease Airport Schedule Monitor Component (#74831)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/76105) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [✨ feat(examples): add Subtle Elevate Toggle Variation #618 (#73886)](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/75886) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [feat: add image-burst-reveal component #87557](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/87645) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [feat: add image-sheen-move component #87556](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/87637) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [feat: add image-crossfade component #87555](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/87636) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [feat: add image-tilt-pola component #87554](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/87634) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [feat: add image-glitch-hover component #87553](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/87631) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
 
-> Showing **5 of 87** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
+> Showing **5 of 88** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
 <!-- PR_TABLE_END -->
 
 ### 📈 Activity & Contributions
