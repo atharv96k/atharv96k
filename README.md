@@ -83,13 +83,13 @@
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
-| [feat: add image-burst-reveal component #87557](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/87645) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [feat: add image-sheen-move component #87556](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/87637) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [feat: add image-crossfade component #87555](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/87636) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [feat: add image-tilt-pola component #87554](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/87634) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [feat: add image-glitch-hover component #87553](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/87631) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [feat: add range-slider component #86865](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/88294) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [feat: add chip-input component #86864](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/88285) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [feat: add character-counter component #86863](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/88273) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [feat: add password-strength component #86862](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/88263) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [feat: add floating-label-field component #86861](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/88249) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
 
-> Showing **5 of 88** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
+> Showing **5 of 90** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
 <!-- PR_TABLE_END -->
 
 ### 📈 Activity & Contributions
