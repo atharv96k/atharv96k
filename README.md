@@ -89,7 +89,7 @@
 | [feat: add password-strength component #86862](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/88263) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
 | [feat: add floating-label-field component #86861](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/88249) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
 
-> Showing **5 of 90** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
+> Showing **5 of 63** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
 <!-- PR_TABLE_END -->
 
 ### 📈 Activity & Contributions
