@@ -83,13 +83,13 @@
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
-| [feat: add range-slider component #86865](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/88294) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [feat: add chip-input component #86864](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/88285) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [feat: add character-counter component #86863](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/88273) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [feat: add password-strength component #86862](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/88263) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
-| [feat: add floating-label-field component #86861](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/88249) | `SAPTARSHI-coder/EaseMotion-css` | ✅ Merged |
+| [🐛 fix(notifications): replace tier emojis with color indicators in achievement emails](https://github.com/Ixotic27/The-Leetcode-City/pull/1453) | `Ixotic27/The-Leetcode-City` | ✅ Merged |
+| [🐛 fix(rate-limit): add time-based cleanup interval to in-memory rate limiter](https://github.com/Ixotic27/The-Leetcode-City/pull/1448) | `Ixotic27/The-Leetcode-City` | ✅ Merged |
+| [🐛 fix(ci): resolve race condition between auto-labeler and gssoc validator](https://github.com/Ixotic27/The-Leetcode-City/pull/1446) | `Ixotic27/The-Leetcode-City` | ✅ Merged |
+| [♻️ refactor(page): extract type definitions and constants into separate modules](https://github.com/Ixotic27/The-Leetcode-City/pull/1239) | `Ixotic27/The-Leetcode-City` | ✅ Merged |
+| [fix: add catch-all 404 route inside Dashboard for unknown paths (#389)](https://github.com/hitesh-kumar123/Travel-Plans-/pull/784) | `hitesh-kumar123/Travel-Plans-` | ✅ Merged |
 
-> Showing **5 of 63** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
+> Showing **5 of 14** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
 <!-- PR_TABLE_END -->
 
 ### 📈 Activity & Contributions
