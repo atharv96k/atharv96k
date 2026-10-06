@@ -83,13 +83,13 @@
 <!-- PR_TABLE_START -->
 | 🔀 Pull Request | 📦 Repository | 📅 Status |
 |---|---|---|
+| [test(ui): replace explicit any with real types in logsWrapperCursor.spec.ts](https://github.com/kestra-io/kestra/pull/20440) | `kestra-io/kestra` | 🟡 Open |
 | [🐛 fix(notifications): replace tier emojis with color indicators in achievement emails](https://github.com/Ixotic27/The-Leetcode-City/pull/1453) | `Ixotic27/The-Leetcode-City` | ✅ Merged |
 | [🐛 fix(rate-limit): add time-based cleanup interval to in-memory rate limiter](https://github.com/Ixotic27/The-Leetcode-City/pull/1448) | `Ixotic27/The-Leetcode-City` | ✅ Merged |
 | [🐛 fix(ci): resolve race condition between auto-labeler and gssoc validator](https://github.com/Ixotic27/The-Leetcode-City/pull/1446) | `Ixotic27/The-Leetcode-City` | ✅ Merged |
 | [♻️ refactor(page): extract type definitions and constants into separate modules](https://github.com/Ixotic27/The-Leetcode-City/pull/1239) | `Ixotic27/The-Leetcode-City` | ✅ Merged |
-| [fix: add catch-all 404 route inside Dashboard for unknown paths (#389)](https://github.com/hitesh-kumar123/Travel-Plans-/pull/784) | `hitesh-kumar123/Travel-Plans-` | ✅ Merged |
 
-> Showing **5 of 14** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
+> Showing **5 of 15** pull requests. [🔍 See all →](https://github.com/search?q=is%3Apr+author%3Aatharv96k&type=pullrequests&s=created&o=desc)
 <!-- PR_TABLE_END -->
 
 ### 📈 Activity & Contributions
