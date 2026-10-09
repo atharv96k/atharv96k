@@ -88,7 +88,7 @@ Currently active in open source completed [GSSoC 2026](https://gssoc.girlscript.
         <li>REST endpoint integration with Chrome Extension API</li>
       </ul>
       <p><strong>Tech:</strong> Java, Spring Boot, Gemini API, React</p>
-      <a href="https://github.com/atharv96k">View Repository</a>
+      <a href="https://github.com/atharv96k/SEW-EXTENSION">View Repository</a>
     </td>
     <td width="50%">
   <h3>ColdOpen</h3>
