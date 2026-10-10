@@ -25,7 +25,7 @@
 
 Full-stack Java developer with a focus on backend systems, REST API design, and AI-integrated applications. I work across the entire stack from database design and Spring Boot services to React frontends and take projects from idea to deployment independently.
 
-Currently active in open source completed [GSSoC 2026](https://gssoc.girlscript.org/profile/056b3917-f854-461f-9e3d-24111e3eb1b2) with 80+ merged PRs and now participating in Hacktoberfest 2026, contributing to open-source AI and software projects throughout October.
+Currently active in open source - completed [GSSoC 2026](https://gssoc.girlscript.org/profile/056b3917-f854-461f-9e3d-24111e3eb1b2) with 80+ merged PRs and now participating in Hacktoberfest 2026, contributing to open-source AI and software projects throughout October.
 
 **Stack:** Java, Spring Boot, Spring Security, REST APIs, JPA/Hibernate, MySQL, MongoDB, React, JavaScript, Tailwind CSS, Docker, Maven, Git  
 **Currently grinding:** Advanced Security concepts, AI-native development, and System Design fundamentals  
