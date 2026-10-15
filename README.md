@@ -1,10 +1,12 @@
 <h1 align="center">Atharv Mohite</h1>
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Backend+Engineering+Enthusiast;Open+Source+Contributor;Building+AI-Native+Java+Applications" alt="Typing subtitle" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=34&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=900&height=70&lines=Java+Full+Stack+Developer;Backend+Engineering+Enthusiast;Open+Source+Contributor;Building+AI-Native+Java+Applications" alt="Typing subtitle" /> 
 </p>
-
 <p align="center">
+  <a href="https://atharv96katportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/atharvmohite96k">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
